@@ -1,1 +1,1 @@
-window.location.replace("https://discord.com");
+window.location.replace("https://v6z.github.io/");
